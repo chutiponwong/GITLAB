@@ -1,6 +1,5 @@
-//changed by Chutipon
 #include <stdio.h>
-#include <math.h>
+#include <string.h>
 void main()
 { char Name[40], G[5], answer[10];
   int i;
