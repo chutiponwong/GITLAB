@@ -1,4 +1,4 @@
-//change by chutipon
+//change by Chutipon
 #include <stdio.h>
 #include <math.h>
 void main()
