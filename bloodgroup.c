@@ -1,4 +1,4 @@
-//change by Pruek
+//changed by Pruek
 #include <stdio.h>
 #include <stdlib.h>
 void main()
@@ -29,7 +29,7 @@ void main()
     }
     else if (strcmp(G, "B") ==0)
     {
-      printf("%s, B. Well, you can give blood 2: B, AB.\n", Name);
+      printf("%s, B. Well, you can give blood to: B, AB.\n", Name);
       printf("  You can receive blood from: B, O.\n");
     }
     else if (strcmp(G, "AB") == 0)
