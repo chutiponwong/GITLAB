@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 //changed by Pruek
 #include <stdio.h>
 #include <stdlib.h>
-=======
-//changed by Chutipon
-#include <stdio.h>
-#include <math.h>
->>>>>>> b93b54275d6e60e4bb53c6b70eaed888f666ea58
+
 void main()
 { char Name[40], G[5], answer[10];
   int i;
