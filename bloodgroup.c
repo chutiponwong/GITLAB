@@ -1,6 +1,6 @@
-//modified by pruek
 #include <stdio.h>
 #include <stdlib.h>
+
 void main()
 { char Name[40], G[5], answer[10];
   int i;
