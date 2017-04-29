@@ -1,4 +1,3 @@
-//changed by Pruek
 #include <stdio.h>
 #include <stdlib.h>
 
